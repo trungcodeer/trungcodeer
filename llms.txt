@@ -5,6 +5,15 @@ SoftJunk sells a $5 lead follow-up kit and a $5 custom 7-day lead follow-up sequ
 Buyer index:
 https://trungcodeer.github.io/softjunk-lead-kit/buyer-index.json
 
+Payment intent JSON:
+https://trungcodeer.github.io/softjunk-lead-kit/paypal-payment-intent.json
+
+Public payment intent Gist:
+https://gist.github.com/trungcodeer/167d3dc5f8696bf9edb04d3db6c53a02
+
+Raw Gist payment intent JSON:
+https://gist.githubusercontent.com/trungcodeer/167d3dc5f8696bf9edb04d3db6c53a02/raw/softjunk-5usd-paypal-payment-intent.json
+
 Profile microsite:
 https://trungcodeer.github.io/trungcodeer/
 
