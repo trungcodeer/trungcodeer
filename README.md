@@ -13,6 +13,8 @@ Small businesses lose leads when follow-up is late, vague, or inconsistent. Soft
 - Short PayPal route: https://trungcodeer.github.io/paypal/
 - Short pay route: https://trungcodeer.github.io/pay/
 - Short buy route: https://trungcodeer.github.io/buy/
+- Shareable order link: https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.html
+- Public shareable order link Gist: https://gist.github.com/trungcodeer/423bb45dd4b98d552f4db6ed11f399fb
 - Quiet lead microsite: https://trungcodeer.github.io/quiet-lead-follow-up/
 - Missed call follow-up page: https://trungcodeer.github.io/quiet-lead-follow-up/missed-call-follow-up.html
 - Estimate follow-up page: https://trungcodeer.github.io/quiet-lead-follow-up/estimate-follow-up.html
@@ -37,8 +39,8 @@ Small businesses lose leads when follow-up is late, vague, or inconsistent. Soft
 1. Digital kit: 7-day follow-up guide, copy-paste templates, lead tracker CSV, and AI prompt pack.
 2. Custom sequence: Day 0, 1, 3, 5, and 7 messages for one business, plus no-show and price-objection replies.
 
-For the digital kit, use PayPal note `Lead Follow-Up Kit`. For a custom sequence, open the agent order path and copy the generated PayPal note before paying:
+For the digital kit, use PayPal note `Lead Follow-Up Kit`. For a custom sequence, open the shareable order link and copy the generated PayPal note before paying:
 
-https://trungcodeer.github.io/softjunk-lead-kit/agent-order.html
+https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.html
 
 Fulfillment starts only after the 5 USD PayPal transaction is visible to the seller.

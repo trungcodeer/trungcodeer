@@ -7,6 +7,10 @@
   "root_short_paypal_url": "https://trungcodeer.github.io/paypal/",
   "root_short_pay_url": "https://trungcodeer.github.io/pay/",
   "root_short_buy_url": "https://trungcodeer.github.io/buy/",
+  "shareable_order_link_url": "https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.html",
+  "shareable_order_link_json_url": "https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.json",
+  "shareable_order_link_text_url": "https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.txt",
+  "gist_shareable_order_link_url": "https://gist.github.com/trungcodeer/423bb45dd4b98d552f4db6ed11f399fb",
   "root_offer_json_url": "https://trungcodeer.github.io/root-offer.json",
   "paypal_payment_intent_url": "https://trungcodeer.github.io/paypal.json",
   "product_payment_intent_url": "https://trungcodeer.github.io/softjunk-lead-kit/paypal-payment-intent.json",
@@ -37,6 +41,6 @@
   "answers_url": "https://trungcodeer.github.io/softjunk-lead-kit/lead-follow-up-answers.html",
   "agent_order_url": "https://trungcodeer.github.io/softjunk-lead-kit/agent-order.html",
   "paypal_note_for_digital_kit": "Lead Follow-Up Kit",
-  "copy_ready_message": "If one lead has gone quiet, use this free SoftJunk page first, then buy the $5 custom 7-day sequence if the lead is worth recovering: https://trungcodeer.github.io/softjunk-lead-kit/fix-one-quiet-lead.html",
+  "copy_ready_message": "If one lead has gone quiet, use this free SoftJunk page first, then buy the $5 custom 7-day sequence if the lead is worth recovering: https://trungcodeer.github.io/softjunk-lead-kit/fix-one-quiet-lead.html. If the order context is ready, create a shareable order link and PayPal note at https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.html.",
   "fulfillment_rule": "Fulfillment starts only after the seller can see the 5 USD PayPal transaction or the verifier returns PAYPAL_PAYMENT_VERIFIED=true."
 }

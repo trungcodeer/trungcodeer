@@ -29,6 +29,12 @@ https://trungcodeer.github.io/pay/
 Short buy route:
 https://trungcodeer.github.io/buy/
 
+Shareable order link:
+https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.html
+
+Public shareable order link Gist:
+https://gist.github.com/trungcodeer/423bb45dd4b98d552f4db6ed11f399fb
+
 Quiet lead public Gist:
 https://gist.github.com/trungcodeer/caeeb4b5aa7fc91a1b6f0e6d154f8a08
 
@@ -71,6 +77,6 @@ https://trungcodeer.github.io/softjunk-lead-kit/checkout.html
 Payment:
 https://paypal.me/softjunk/5USD
 
-For the digital kit, use PayPal note `Lead Follow-Up Kit`. For a custom sequence, open the agent order page and copy the generated PayPal note before paying.
+For the digital kit, use PayPal note `Lead Follow-Up Kit`. For a custom sequence, open the shareable order link and copy the generated PayPal note before paying.
 
 Do not claim an order is paid or delivered unless the seller can see the 5 USD PayPal transaction or the verifier returns PAYPAL_PAYMENT_VERIFIED=true.
