@@ -16,6 +16,7 @@ Small businesses lose leads when follow-up is late, vague, or inconsistent. Soft
 - No-show follow-up page: https://trungcodeer.github.io/quiet-lead-follow-up/no-show-follow-up.html
 - Price-objection reply page: https://trungcodeer.github.io/quiet-lead-follow-up/price-objection-reply.html
 - Quiet DM follow-up page: https://trungcodeer.github.io/quiet-lead-follow-up/quiet-dm-follow-up.html
+- PayPal handoff note: https://trungcodeer.github.io/quiet-lead-follow-up/pay-5-usd-paypal.html
 - Buyer index for AI assistants: https://trungcodeer.github.io/softjunk-lead-kit/buyer-index.json
 - Profile microsite: https://trungcodeer.github.io/trungcodeer/
 - Quiet lead public Gist: https://gist.github.com/trungcodeer/caeeb4b5aa7fc91a1b6f0e6d154f8a08
