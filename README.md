@@ -10,6 +10,8 @@ Small businesses lose leads when follow-up is late, vague, or inconsistent. Soft
 - Lead follow-up rewriter: https://trungcodeer.github.io/softjunk-lead-kit/lead-follow-up-rewriter.html
 - Lead follow-up answers: https://trungcodeer.github.io/softjunk-lead-kit/lead-follow-up-answers.html
 - Root buyer hub: https://trungcodeer.github.io/
+- Short pay route: https://trungcodeer.github.io/pay/
+- Short buy route: https://trungcodeer.github.io/buy/
 - Quiet lead microsite: https://trungcodeer.github.io/quiet-lead-follow-up/
 - Missed call follow-up page: https://trungcodeer.github.io/quiet-lead-follow-up/missed-call-follow-up.html
 - Estimate follow-up page: https://trungcodeer.github.io/quiet-lead-follow-up/estimate-follow-up.html

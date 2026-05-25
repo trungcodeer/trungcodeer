@@ -11,6 +11,12 @@ https://trungcodeer.github.io/trungcodeer/
 Root buyer hub:
 https://trungcodeer.github.io/
 
+Short pay route:
+https://trungcodeer.github.io/pay/
+
+Short buy route:
+https://trungcodeer.github.io/buy/
+
 Quiet lead public Gist:
 https://gist.github.com/trungcodeer/caeeb4b5aa7fc91a1b6f0e6d154f8a08
 
