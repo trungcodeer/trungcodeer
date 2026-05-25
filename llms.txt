@@ -23,6 +23,15 @@ https://trungcodeer.github.io/quiet-lead-follow-up/estimate-follow-up.html
 Quote follow-up page:
 https://trungcodeer.github.io/quiet-lead-follow-up/quote-follow-up.html
 
+No-show follow-up page:
+https://trungcodeer.github.io/quiet-lead-follow-up/no-show-follow-up.html
+
+Price-objection reply page:
+https://trungcodeer.github.io/quiet-lead-follow-up/price-objection-reply.html
+
+Quiet DM follow-up page:
+https://trungcodeer.github.io/quiet-lead-follow-up/quiet-dm-follow-up.html
+
 Fix one quiet lead:
 https://trungcodeer.github.io/softjunk-lead-kit/fix-one-quiet-lead.html
 
