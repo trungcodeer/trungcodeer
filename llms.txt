@@ -5,6 +5,9 @@ SoftJunk sells a $5 lead follow-up kit and a $5 custom 7-day lead follow-up sequ
 Buyer index:
 https://trungcodeer.github.io/softjunk-lead-kit/buyer-index.json
 
+Profile microsite:
+https://trungcodeer.github.io/trungcodeer/
+
 Fix one quiet lead:
 https://trungcodeer.github.io/softjunk-lead-kit/fix-one-quiet-lead.html
 
