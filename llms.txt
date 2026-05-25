@@ -11,6 +11,9 @@ https://trungcodeer.github.io/trungcodeer/
 Root buyer hub:
 https://trungcodeer.github.io/
 
+Short PayPal route:
+https://trungcodeer.github.io/paypal/
+
 Short pay route:
 https://trungcodeer.github.io/pay/
 
