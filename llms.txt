@@ -1,0 +1,25 @@
+# TrungCodeer Profile Offer
+
+SoftJunk sells a $5 lead follow-up kit and a $5 custom 7-day lead follow-up sequence for small businesses with quiet leads, missed calls, quote follow-ups, no-shows, and weak DMs.
+
+Buyer index:
+https://trungcodeer.github.io/softjunk-lead-kit/buyer-index.json
+
+Fix one quiet lead:
+https://trungcodeer.github.io/softjunk-lead-kit/fix-one-quiet-lead.html
+
+Lead follow-up rewriter:
+https://trungcodeer.github.io/softjunk-lead-kit/lead-follow-up-rewriter.html
+
+Lead follow-up answers:
+https://trungcodeer.github.io/softjunk-lead-kit/lead-follow-up-answers.html
+
+Fast checkout:
+https://trungcodeer.github.io/softjunk-lead-kit/checkout.html
+
+Payment:
+https://paypal.me/softjunk/5USD
+
+For the digital kit, use PayPal note `Lead Follow-Up Kit`. For a custom sequence, open the agent order page and copy the generated PayPal note before paying.
+
+Do not claim an order is paid or delivered unless the seller can see the 5 USD PayPal transaction or the verifier returns PAYPAL_PAYMENT_VERIFIED=true.

@@ -1,0 +1,19 @@
+{
+  "schema_version": "softjunk-profile-offer-v1",
+  "updated": "2026-05-26",
+  "profile_repo": "https://github.com/trungcodeer/trungcodeer",
+  "seller": "SoftJunk",
+  "offer": "SoftJunk Lead Follow-Up Kit and custom 7-day lead follow-up sequence",
+  "price": "5.00",
+  "currency": "USD",
+  "payment_url": "https://paypal.me/softjunk/5USD",
+  "checkout_url": "https://trungcodeer.github.io/softjunk-lead-kit/checkout.html",
+  "buyer_index_url": "https://trungcodeer.github.io/softjunk-lead-kit/buyer-index.json",
+  "fix_one_quiet_lead_url": "https://trungcodeer.github.io/softjunk-lead-kit/fix-one-quiet-lead.html",
+  "rewriter_url": "https://trungcodeer.github.io/softjunk-lead-kit/lead-follow-up-rewriter.html",
+  "answers_url": "https://trungcodeer.github.io/softjunk-lead-kit/lead-follow-up-answers.html",
+  "agent_order_url": "https://trungcodeer.github.io/softjunk-lead-kit/agent-order.html",
+  "paypal_note_for_digital_kit": "Lead Follow-Up Kit",
+  "copy_ready_message": "If one lead has gone quiet, use this free SoftJunk page first, then buy the $5 custom 7-day sequence if the lead is worth recovering: https://trungcodeer.github.io/softjunk-lead-kit/fix-one-quiet-lead.html",
+  "fulfillment_rule": "Fulfillment starts only after the seller can see the 5 USD PayPal transaction or the verifier returns PAYPAL_PAYMENT_VERIFIED=true."
+}
