@@ -3,6 +3,19 @@
 [![Pay $5 on PayPal](https://img.shields.io/badge/PayPal-Pay%20%245-0070ba?logo=paypal)](https://paypal.me/softjunk/5USD)
 [![GitHub Sponsor route](https://img.shields.io/badge/GitHub-Sponsor%20route-24292f?logo=github)](https://github.com/trungcodeer/softjunk-lead-kit/blob/main/SPONSOR_BUTTON_BUY.md)
 
+## Current  Buyer Route
+
+For one unanswered roofing estimate, send this one-read buyer packet first:
+https://trungcodeer.github.io/softjunk-lead-kit/roofing-buyer-send.html
+
+Agent JSON:
+https://trungcodeer.github.io/softjunk-lead-kit/roofing-buyer-send.json
+
+Then pay exactly 5 USD:
+https://paypal.me/softjunk/5USD
+
+Fulfillment starts only after seller-side PayPal evidence exists or PAYPAL_PAYMENT_VERIFIED=true. Use placeholders only; do not post homeowner, payment, transaction, address, or private customer data.
+
 I build small, practical tools for lead follow-up, automation, and simple business workflows.
 
 ## SoftJunk Lead Kit
