@@ -107,6 +107,12 @@ https://trungcodeer.github.io/softjunk-lead-kit/checkout.html
 Payment:
 https://paypal.me/softjunk/5USD
 
+GitHub Sponsor button buy route:
+https://github.com/trungcodeer/softjunk-lead-kit/blob/main/SPONSOR_BUTTON_BUY.md
+
+Sponsor button buy JSON:
+https://raw.githubusercontent.com/trungcodeer/softjunk-lead-kit/main/sponsor-button-buy.json
+
 Preferred handoff:
 When the buyer has one stalled lead, open the root rescue route first. When broader non-sensitive lead context exists, open the AI Deal Desk. It generates a buyer decision, PayPal note, custom preview route, shareable order link, and the exact 5 USD PayPal route.
 

@@ -1,7 +1,6 @@
 # Fulfillment starts only after seller-side PayPal evidence exists or PAYPAL_PAYMENT_VERIFIED=true.
 custom:
-  - https://github.com/trungcodeer/softjunk-lead-kit/blob/main/BUY_NOW.md
-  - https://raw.githubusercontent.com/trungcodeer/softjunk-lead-kit/main/buy-now.json
-  - https://github.com/trungcodeer/softjunk-lead-kit/issues/1
-  - https://github.com/trungcodeer/softjunk-lead-kit/issues/5
   - https://paypal.me/softjunk/5USD
+  - https://github.com/trungcodeer/softjunk-lead-kit/blob/main/SPONSOR_BUTTON_BUY.md
+  - https://github.com/trungcodeer/softjunk-lead-kit/blob/main/PAYPAL_NOTE_FIRST.md
+  - https://github.com/trungcodeer/softjunk-lead-kit/blob/main/INSTANT_FULFILLMENT_PACKET.md
