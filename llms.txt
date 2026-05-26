@@ -14,6 +14,15 @@ https://trungcodeer.github.io/rescue.json
 Root one-lead rescue text:
 https://trungcodeer.github.io/rescue.txt
 
+AI/coding agent instructions:
+https://github.com/trungcodeer/softjunk-lead-kit/blob/main/AGENTS.md
+
+Agent checkout JSON:
+https://raw.githubusercontent.com/trungcodeer/softjunk-lead-kit/main/agents-checkout.json
+
+Agent checkout Gist:
+https://gist.github.com/trungcodeer/795587172ee240078c4377559b20b49b
+
 AI Deal Desk JSON:
 https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.json
 
