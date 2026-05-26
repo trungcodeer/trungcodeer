@@ -3,31 +3,35 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SoftJunk Lead Follow-Up Kit - $5</title>
-  <meta name="description" content="Use free lead follow-up tools, then buy the $5 SoftJunk lead follow-up kit or custom 7-day sequence through PayPal.">
+  <title>SoftJunk AI Deal Desk - $5 Lead Follow-Up</title>
+  <meta name="description" content="Generate a SoftJunk buyer handoff, PayPal note, and $5 AI Deal Desk route for a real quiet-lead follow-up problem.">
   <link rel="canonical" href="https://trungcodeer.github.io/trungcodeer/">
   <meta name="robots" content="index,follow">
-  <meta property="og:title" content="SoftJunk Lead Follow-Up Kit - $5">
-  <meta property="og:description" content="Free lead follow-up tools plus a $5 kit or custom 7-day sequence for small businesses.">
+  <meta property="og:title" content="SoftJunk AI Deal Desk - $5">
+  <meta property="og:description" content="Generate a buyer handoff, PayPal note, and exact $5 PayPal route for a quiet-lead follow-up problem.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://trungcodeer.github.io/trungcodeer/">
   <meta property="og:image" content="https://trungcodeer.github.io/softjunk-lead-kit/social-card-qr.png">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="SoftJunk Lead Follow-Up Kit - $5">
-  <meta name="twitter:description" content="Free lead follow-up tools plus a $5 kit or custom 7-day sequence for small businesses.">
+  <meta name="twitter:title" content="SoftJunk AI Deal Desk - $5">
+  <meta name="twitter:description" content="Generate a buyer handoff, PayPal note, and exact $5 PayPal route for a quiet-lead follow-up problem.">
   <meta name="twitter:image" content="https://trungcodeer.github.io/softjunk-lead-kit/social-card-qr.png">
   <link rel="alternate" type="text/plain" href="https://trungcodeer.github.io/trungcodeer/llms.txt" title="AI-readable profile offer">
   <link rel="alternate" type="application/json" href="https://trungcodeer.github.io/trungcodeer/softjunk-profile-offer.json" title="SoftJunk profile offer JSON">
+  <link rel="alternate" type="application/json" href="https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.json" title="SoftJunk AI deal desk JSON">
+  <link rel="alternate" type="text/plain" href="https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.txt" title="SoftJunk AI deal desk text">
+  <link rel="alternate" type="application/json" href="https://trungcodeer.github.io/softjunk-lead-kit/agent-commerce.json" title="SoftJunk agent commerce JSON">
   <link rel="alternate" type="application/json" href="https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.json" title="SoftJunk shareable order link JSON">
   <link rel="alternate" type="application/json" href="https://gist.githubusercontent.com/trungcodeer/167d3dc5f8696bf9edb04d3db6c53a02/raw/softjunk-5usd-paypal-payment-intent.json" title="SoftJunk public payment intent Gist JSON">
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Offer",
-      "name": "SoftJunk Lead Follow-Up Kit",
+      "name": "SoftJunk AI Deal Desk and Lead Follow-Up Kit",
       "price": "5.00",
       "priceCurrency": "USD",
       "url": "https://paypal.me/softjunk/5USD",
+      "mainEntityOfPage": "https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html",
       "availability": "https://schema.org/InStock",
       "seller": {
         "@type": "Organization",
@@ -61,11 +65,15 @@
       line-height: 1.5;
     }
 
-    a {
+    a,
+    button {
       color: inherit;
     }
 
-    a:focus-visible {
+    a:focus-visible,
+    button:focus-visible,
+    input:focus-visible,
+    textarea:focus-visible {
       outline: 3px solid var(--focus);
       outline-offset: 4px;
     }
@@ -101,6 +109,11 @@
       padding: 54px 0 32px;
     }
 
+    .hero > *,
+    .grid > * {
+      min-width: 0;
+    }
+
     h1 {
       margin: 0 0 18px;
       font-size: clamp(38px, 7vw, 70px);
@@ -109,11 +122,16 @@
       overflow-wrap: anywhere;
     }
 
+    .title-line {
+      display: block;
+    }
+
     .lead {
       max-width: 680px;
       margin: 0 0 24px;
       color: var(--muted);
       font-size: clamp(18px, 2vw, 22px);
+      overflow-wrap: anywhere;
     }
 
     .actions {
@@ -132,8 +150,12 @@
       padding: 0 18px;
       border: 1px solid transparent;
       text-decoration: none;
+      font: inherit;
       font-weight: 800;
-      white-space: nowrap;
+      line-height: 1.15;
+      text-align: center;
+      white-space: normal;
+      cursor: pointer;
     }
 
     .button.primary {
@@ -149,6 +171,92 @@
       background: var(--paper);
       border-color: var(--line);
       color: var(--ink);
+    }
+
+    .button.tertiary {
+      background: var(--soft);
+      border-color: #bddbd4;
+      color: var(--ink);
+    }
+
+    .handoff-panel {
+      align-self: stretch;
+      display: grid;
+      gap: 14px;
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 18px;
+    }
+
+    .handoff-panel h2 {
+      margin: 0;
+      font-size: 24px;
+      line-height: 1.15;
+      letter-spacing: 0;
+    }
+
+    .handoff-form,
+    .handoff-output {
+      display: grid;
+      gap: 10px;
+    }
+
+    .field {
+      display: grid;
+      gap: 5px;
+      font-weight: 800;
+    }
+
+    .field span {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    input,
+    textarea {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      padding: 11px 12px;
+      color: var(--ink);
+      background: #fff;
+      font: inherit;
+    }
+
+    input {
+      min-height: 44px;
+    }
+
+    textarea {
+      min-height: 126px;
+      resize: vertical;
+    }
+
+    .compact-actions {
+      margin: 0;
+      gap: 8px;
+    }
+
+    .compact-actions .button {
+      min-height: 42px;
+      padding: 0 12px;
+      font-size: 14px;
+    }
+
+    .handoff-qr {
+      display: grid;
+      grid-template-columns: 96px minmax(0, 1fr);
+      gap: 12px;
+      align-items: center;
+    }
+
+    .handoff-qr img {
+      display: block;
+      width: 96px;
+      height: 96px;
+      border-radius: 5px;
     }
 
     .qr {
@@ -169,6 +277,7 @@
       margin: 0;
       color: var(--muted);
       font-size: 15px;
+      overflow-wrap: anywhere;
     }
 
     section {
@@ -229,9 +338,31 @@
         padding-top: 40px;
       }
 
+      .lead {
+        max-width: 32ch;
+      }
+
       .actions,
       .button {
         width: 100%;
+      }
+
+      .handoff-qr {
+        grid-template-columns: 1fr;
+      }
+
+      .handoff-qr img {
+        width: 128px;
+        height: 128px;
+      }
+    }
+
+    @media (max-width: 560px) {
+      main,
+      footer {
+        width: min(358px, calc(100% - 32px));
+        margin-left: 16px;
+        margin-right: 16px;
       }
     }
   </style>
@@ -242,35 +373,64 @@
   <main id="main">
     <section class="hero" aria-labelledby="page-title">
       <div>
-        <h1 id="page-title">Fix quiet leads before they disappear.</h1>
-        <p class="lead">Free SoftJunk follow-up tools, plus a $5 lead follow-up kit or custom 7-day sequence for small businesses that get leads from forms, DMs, calls, quotes, and appointments.</p>
+        <h1 id="page-title"><span class="title-line">SoftJunk AI</span><span class="title-line">Deal Desk</span><span class="title-line">for quiet leads.</span></h1>
+        <p class="lead">Turn non-sensitive lead context into a buyer handoff, PayPal note, preview route, and exact $5 PayPal payment path for small businesses with stalled forms, DMs, calls, quotes, and appointments.</p>
         <div class="actions" aria-label="SoftJunk actions">
-          <a class="button secondary" href="https://trungcodeer.github.io/softjunk-lead-kit/fix-one-quiet-lead.html">Fix one quiet lead</a>
-          <a class="button secondary" href="https://trungcodeer.github.io/">Root hub</a>
-          <a class="button primary" href="https://trungcodeer.github.io/paypal/">PayPal route</a>
-          <a class="button primary" href="https://trungcodeer.github.io/pay/">Short pay route</a>
-          <a class="button secondary" href="https://trungcodeer.github.io/buy/">Buy route</a>
-          <a class="button secondary" href="https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.html">Create order link</a>
-          <a class="button secondary" href="https://trungcodeer.github.io/quiet-lead-follow-up/">Quiet lead page</a>
-          <a class="button secondary" href="https://trungcodeer.github.io/softjunk-lead-kit/lead-follow-up-rewriter.html">Rewrite a follow-up</a>
-          <a class="button secondary" href="https://trungcodeer.github.io/softjunk-lead-kit/buyer-index.json">Buyer index</a>
-          <a class="button secondary" href="https://gist.github.com/trungcodeer/167d3dc5f8696bf9edb04d3db6c53a02">Payment intent Gist</a>
-          <a class="button secondary" href="https://gist.github.com/trungcodeer/423bb45dd4b98d552f4db6ed11f399fb">Order link Gist</a>
-          <a class="button secondary" href="https://gist.github.com/trungcodeer/caeeb4b5aa7fc91a1b6f0e6d154f8a08">Quiet lead Gist</a>
-          <a class="button secondary" href="https://trungcodeer.github.io/quiet-lead-follow-up/pay-5-usd-paypal.html">PayPal handoff</a>
-          <a class="button primary" href="https://trungcodeer.github.io/softjunk-lead-kit/checkout.html">Fast checkout</a>
+          <a class="button primary" href="https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html">Open AI Deal Desk</a>
           <a class="button primary" href="https://paypal.me/softjunk/5USD">Pay $5 on PayPal</a>
+          <a class="button secondary" href="https://trungcodeer.github.io/softjunk-lead-kit/custom-sequence-preview.html">Preview sequence</a>
+          <a class="button secondary" href="https://trungcodeer.github.io/softjunk-lead-kit/lead-recovery-audit.html">Lead Recovery Audit</a>
         </div>
-        <p class="note">For the digital kit, use PayPal note "Lead Follow-Up Kit". For a custom sequence, generate the PayPal note on the shareable order link before paying.</p>
+        <p class="note">For the digital kit, use PayPal note "Lead Follow-Up Kit". For a custom sequence, generate the PayPal note in the AI Deal Desk before paying.</p>
       </div>
-      <div class="qr">
-        <img src="https://trungcodeer.github.io/softjunk-lead-kit/social-card-qr.png" alt="SoftJunk lead follow-up offer card with PayPal QR code for the five dollar checkout">
+      <div class="handoff-panel" aria-labelledby="handoff-title">
+        <h2 id="handoff-title">Profile handoff generator</h2>
+        <form class="handoff-form" id="profile-handoff-form">
+          <label class="field" for="profile-business">
+            Business
+            <span>Business type only, no customer names</span>
+            <input id="profile-business" name="business" autocomplete="organization" placeholder="roofing company">
+          </label>
+          <label class="field" for="profile-service">
+            Service
+            <span>What the lead asked about</span>
+            <input id="profile-service" name="service" placeholder="estimate follow-up">
+          </label>
+          <label class="field" for="profile-source">
+            Lead source
+            <span>Where the lead came from</span>
+            <input id="profile-source" name="source" placeholder="missed call, DM, quote, form">
+          </label>
+          <label class="field" for="profile-need">
+            Need
+            <span>The follow-up problem</span>
+            <input id="profile-need" name="need" placeholder="lead stopped replying after price">
+          </label>
+          <button class="button primary" type="submit">Generate handoff</button>
+        </form>
+        <div class="handoff-output">
+          <p class="note" id="profile-status" aria-live="polite">Add non-sensitive context to generate the PayPal note and AI Deal Desk route.</p>
+          <textarea id="profile-note" readonly aria-label="Generated PayPal note">Custom Sequence | Business: small business | Service: lead follow-up | Source: quiet lead | Tone: plain | Need: stalled reply | Next: reply today | Value: unknown</textarea>
+          <div class="actions compact-actions" aria-label="Generated handoff actions">
+            <a class="button secondary" id="profile-deal-link" href="https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html">Open AI Deal Desk</a>
+            <a class="button tertiary" id="profile-order-link" href="https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.html">Share order link</a>
+            <a class="button primary" href="https://paypal.me/softjunk/5USD">Pay $5</a>
+          </div>
+        </div>
+        <div class="handoff-qr">
+          <img src="https://trungcodeer.github.io/softjunk-lead-kit/social-card-qr.png" alt="SoftJunk five dollar PayPal checkout QR code">
+          <p class="note">Seller-side verification is required before fulfillment. Success signal: PAYPAL_PAYMENT_VERIFIED=true.</p>
+        </div>
       </div>
     </section>
 
     <section aria-labelledby="options-title">
       <h2 id="options-title">Two $5 options</h2>
       <div class="grid">
+        <article class="card">
+          <strong>AI Deal Desk</strong>
+          <p>Generate a buyer decision, PayPal note, custom preview route, and shareable order link from non-sensitive lead context.</p>
+        </article>
         <article class="card">
           <strong>Digital kit</strong>
           <p>7-day guide, copy-paste templates, lead tracker CSV, and AI prompt pack. Pay with note "Lead Follow-Up Kit".</p>
@@ -279,10 +439,6 @@
           <strong>Custom sequence</strong>
           <p>Day 0, 1, 3, 5, and 7 messages for one business, plus no-show and price-objection replies.</p>
         </article>
-        <article class="card">
-          <strong>Free tools first</strong>
-          <p>Try the one-lead page, rewriter, answer engine, sample pack, and template library before paying.</p>
-        </article>
       </div>
     </section>
 
@@ -290,6 +446,36 @@
       <div class="band">
         <h2 id="delivery-title">Delivery rule</h2>
         <p>Fulfillment starts only after the 5 USD PayPal transaction is visible to the seller. The paid ZIP is not public and is delivered manually to the email shown in PayPal.</p>
+      </div>
+    </section>
+
+    <section aria-labelledby="routes-title">
+      <h2 id="routes-title">Buyer routes</h2>
+      <div class="grid">
+        <article class="card">
+          <strong><a href="https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.html">Shareable order link</a></strong>
+          <p>Create a public non-sensitive order URL and PayPal note before opening PayPal.</p>
+        </article>
+        <article class="card">
+          <strong><a href="https://trungcodeer.github.io/softjunk-lead-kit/agent-commerce.html">Agent commerce capsule</a></strong>
+          <p>Machine-readable routing contract for assistants deciding whether to send a buyer to the $5 offer.</p>
+        </article>
+        <article class="card">
+          <strong><a href="https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.json">AI Deal Desk JSON</a></strong>
+          <p>Structured route with use cases, privacy limits, payment URL, and PAYPAL_PAYMENT_VERIFIED gate.</p>
+        </article>
+        <article class="card">
+          <strong><a href="https://trungcodeer.github.io/">Root buyer hub</a></strong>
+          <p>Short routes for PayPal, pay, buy, and public discovery files.</p>
+        </article>
+        <article class="card">
+          <strong><a href="https://gist.github.com/trungcodeer/16d6861c14de82187946861e4c448844">AI Deal Desk Gist</a></strong>
+          <p>Public mirrored buyer handoff for crawlers and assistants that prefer Gist surfaces.</p>
+        </article>
+        <article class="card">
+          <strong><a href="https://trungcodeer.github.io/softjunk-lead-kit/checkout.html">Fast checkout</a></strong>
+          <p>Direct checkout path for the digital kit or custom sequence after the buyer has the right note.</p>
+        </article>
       </div>
     </section>
 
@@ -315,5 +501,64 @@
   <footer>
     <p>SoftJunk provides operational templates only. Review customer messages for fit, accuracy, and compliance before sending.</p>
   </footer>
+  <script>
+    (function () {
+      var form = document.getElementById('profile-handoff-form');
+      var noteField = document.getElementById('profile-note');
+      var status = document.getElementById('profile-status');
+      var dealLink = document.getElementById('profile-deal-link');
+      var orderLink = document.getElementById('profile-order-link');
+      var dealBase = 'https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html';
+      var orderBase = 'https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.html';
+
+      function clean(value, fallback) {
+        var next = String(value || '').trim().replace(/\s+/g, ' ');
+        return next || fallback;
+      }
+
+      function build(event) {
+        if (event) {
+          event.preventDefault();
+        }
+
+        var fields = {
+          business: document.getElementById('profile-business').value,
+          service: document.getElementById('profile-service').value,
+          source: document.getElementById('profile-source').value,
+          need: document.getElementById('profile-need').value
+        };
+        var hasInput = Object.keys(fields).some(function (key) {
+          return fields[key].trim().length > 0;
+        });
+        var business = clean(fields.business, 'small business');
+        var service = clean(fields.service, 'lead follow-up');
+        var source = clean(fields.source, 'quiet lead');
+        var need = clean(fields.need, 'stalled reply');
+        var params = new URLSearchParams({
+          business: business,
+          service: service,
+          source: source,
+          tone: 'plain',
+          need: need,
+          next: 'reply today',
+          value: 'unknown'
+        });
+        var note = 'Custom Sequence | Business: ' + business + ' | Service: ' + service + ' | Source: ' + source + ' | Tone: plain | Need: ' + need + ' | Next: reply today | Value: unknown';
+
+        noteField.value = note;
+        dealLink.href = dealBase + '?' + params.toString();
+        orderLink.href = orderBase + '?' + params.toString();
+        status.textContent = hasInput
+          ? 'Buyer handoff generated. Copy this PayPal note, open the AI Deal Desk, then pay exactly 5 USD only if the paid sequence is wanted.'
+          : 'Default handoff is ready. Add non-sensitive context to generate a more precise AI Deal Desk route.';
+      }
+
+      form.addEventListener('submit', build);
+      Array.prototype.forEach.call(form.querySelectorAll('input'), function (input) {
+        input.addEventListener('input', build);
+      });
+      build();
+    }());
+  </script>
 </body>
 </html>

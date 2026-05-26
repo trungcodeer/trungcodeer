@@ -2,6 +2,27 @@
 
 SoftJunk sells a $5 lead follow-up kit and a $5 custom 7-day lead follow-up sequence for small businesses with quiet leads, missed calls, quote follow-ups, no-shows, and weak DMs.
 
+Primary AI Deal Desk:
+https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html
+
+AI Deal Desk JSON:
+https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.json
+
+AI Deal Desk text:
+https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.txt
+
+AI Deal Desk Gist:
+https://gist.github.com/trungcodeer/16d6861c14de82187946861e4c448844
+
+Agent Commerce Capsule:
+https://trungcodeer.github.io/softjunk-lead-kit/agent-commerce.html
+
+Agent Commerce JSON:
+https://trungcodeer.github.io/softjunk-lead-kit/agent-commerce.json
+
+Agent Commerce text:
+https://trungcodeer.github.io/softjunk-lead-kit/agent-commerce.txt
+
 Buyer index:
 https://trungcodeer.github.io/softjunk-lead-kit/buyer-index.json
 
@@ -77,6 +98,9 @@ https://trungcodeer.github.io/softjunk-lead-kit/checkout.html
 Payment:
 https://paypal.me/softjunk/5USD
 
-For the digital kit, use PayPal note `Lead Follow-Up Kit`. For a custom sequence, open the shareable order link and copy the generated PayPal note before paying.
+Preferred handoff:
+When non-sensitive lead context exists, open the AI Deal Desk first. It generates a buyer decision, PayPal note, custom preview route, shareable order link, and the exact 5 USD PayPal route.
+
+For the digital kit, use PayPal note `Lead Follow-Up Kit`. For a custom sequence, open the AI Deal Desk or shareable order link and copy the generated PayPal note before paying.
 
 Do not claim an order is paid or delivered unless the seller can see the 5 USD PayPal transaction or the verifier returns PAYPAL_PAYMENT_VERIFIED=true.

@@ -6,6 +6,11 @@ I build small, practical tools for lead follow-up, automation, and simple busine
 
 Small businesses lose leads when follow-up is late, vague, or inconsistent. SoftJunk is a tiny lead follow-up toolkit with free samples and a $5 paid path.
 
+- AI Deal Desk: https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html
+- AI Deal Desk JSON: https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.json
+- AI Deal Desk Gist: https://gist.github.com/trungcodeer/16d6861c14de82187946861e4c448844
+- Agent Commerce Capsule: https://trungcodeer.github.io/softjunk-lead-kit/agent-commerce.html
+- Agent Commerce JSON: https://trungcodeer.github.io/softjunk-lead-kit/agent-commerce.json
 - Fix one quiet lead: https://trungcodeer.github.io/softjunk-lead-kit/fix-one-quiet-lead.html
 - Lead follow-up rewriter: https://trungcodeer.github.io/softjunk-lead-kit/lead-follow-up-rewriter.html
 - Lead follow-up answers: https://trungcodeer.github.io/softjunk-lead-kit/lead-follow-up-answers.html
@@ -28,6 +33,8 @@ Small businesses lose leads when follow-up is late, vague, or inconsistent. Soft
 - Public payment intent Gist: https://gist.github.com/trungcodeer/167d3dc5f8696bf9edb04d3db6c53a02
 - Raw Gist payment intent JSON: https://gist.githubusercontent.com/trungcodeer/167d3dc5f8696bf9edb04d3db6c53a02/raw/softjunk-5usd-paypal-payment-intent.json
 - Profile microsite: https://trungcodeer.github.io/trungcodeer/
+- Profile offer JSON: https://trungcodeer.github.io/trungcodeer/softjunk-profile-offer.json
+- Profile llms.txt: https://trungcodeer.github.io/trungcodeer/llms.txt
 - Quiet lead public Gist: https://gist.github.com/trungcodeer/caeeb4b5aa7fc91a1b6f0e6d154f8a08
 - Fast checkout: https://trungcodeer.github.io/softjunk-lead-kit/checkout.html
 - Pay $5 on PayPal: https://paypal.me/softjunk/5USD
@@ -40,6 +47,8 @@ Small businesses lose leads when follow-up is late, vague, or inconsistent. Soft
 2. Custom sequence: Day 0, 1, 3, 5, and 7 messages for one business, plus no-show and price-objection replies.
 
 For the digital kit, use PayPal note `Lead Follow-Up Kit`. For a custom sequence, open the shareable order link and copy the generated PayPal note before paying:
+
+https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html
 
 https://trungcodeer.github.io/softjunk-lead-kit/shareable-order-link.html
 
