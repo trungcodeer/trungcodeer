@@ -8,15 +8,19 @@ Small businesses lose leads when follow-up is late, vague, or inconsistent. Soft
 
 Buyer shortcut:
 
-1. Open the one-message buyer packet: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/ONE_MESSAGE_BUYER_PACKET.md
-2. Open the public buyer-agent route: https://github.com/trungcodeer/softjunk-lead-kit/issues/5
-3. If GitHub Pages is unavailable, open the Agent Close fallback: https://raw.githack.com/trungcodeer/softjunk-lead-kit/3278b637c63edfc17cf54dfcdcf205fa5e325df4/agent-close.html
-4. For one stalled lead, open the root rescue route: https://trungcodeer.github.io/rescue/
-5. Pay exactly 5 USD after the note is ready: https://paypal.me/softjunk/5USD
+1. Open the GitHub-native Buy Now packet: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/BUY_NOW.md
+2. If machine-readable buy-now data is needed, open: https://raw.githubusercontent.com/trungcodeer/softjunk-lead-kit/main/buy-now.json
+3. Open the pinned human checkout board: https://github.com/trungcodeer/softjunk-lead-kit/issues/1
+4. Open the pinned buyer-agent route: https://github.com/trungcodeer/softjunk-lead-kit/issues/5
+5. Pay exactly 5 USD: https://paypal.me/softjunk/5USD
 6. Submit non-sensitive order details after payment: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
+7. Optional Pages route: https://trungcodeer.github.io/rescue/
 
 Fulfillment starts only after seller-side PayPal evidence exists or `PAYPAL_PAYMENT_VERIFIED=true`.
 
+- Buy Now packet: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/BUY_NOW.md
+- Raw Buy Now JSON: https://raw.githubusercontent.com/trungcodeer/softjunk-lead-kit/main/buy-now.json
+- Pinned public order board: https://github.com/trungcodeer/softjunk-lead-kit/issues/1
 - One-message buyer packet: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/ONE_MESSAGE_BUYER_PACKET.md
 - One-message buyer packet Gist: https://gist.github.com/trungcodeer/1feb4ad4287e64c1e88d7f6c53f66c0d
 - Public buyer-agent route: https://github.com/trungcodeer/softjunk-lead-kit/issues/5

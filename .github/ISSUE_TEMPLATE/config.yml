@@ -1,5 +1,17 @@
 blank_issues_enabled: false
 contact_links:
+  - name: GitHub-native Buy Now packet
+    url: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/BUY_NOW.md
+    about: Shortest GitHub-native route with pinned buyer issues, exact 5 USD PayPal checkout, order form, and verification gate.
+  - name: Raw Buy Now JSON
+    url: https://raw.githubusercontent.com/trungcodeer/softjunk-lead-kit/main/buy-now.json
+    about: Machine-readable buy-now route for assistants, buyer agents, crawlers, and VAs.
+  - name: Pinned public order board
+    url: https://github.com/trungcodeer/softjunk-lead-kit/issues/1
+    about: Human-readable checkout board for the 5 USD one-lead rescue route.
+  - name: Pinned buyer-agent route
+    url: https://github.com/trungcodeer/softjunk-lead-kit/issues/5
+    about: Public checkout handoff for the 5 USD one-lead rescue buyer-agent route.
   - name: One-message buyer packet
     url: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/ONE_MESSAGE_BUYER_PACKET.md
     about: Shortest copy-ready route to issue #5, Agent Close fallback, root rescue, PayPal 5 USD, order form, and verification gate.

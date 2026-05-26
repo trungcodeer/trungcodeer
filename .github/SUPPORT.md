@@ -4,12 +4,15 @@ Use this route for the SoftJunk 5 USD one-lead rescue, Lead Follow-Up Kit, or cu
 
 ## Start Here
 
+- GitHub-native Buy Now packet: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/BUY_NOW.md
+- Raw Buy Now JSON: https://raw.githubusercontent.com/trungcodeer/softjunk-lead-kit/main/buy-now.json
+- Pinned public order board: https://github.com/trungcodeer/softjunk-lead-kit/issues/1
+- Pinned buyer-agent route: https://github.com/trungcodeer/softjunk-lead-kit/issues/5
+- Exact PayPal 5 USD URL: https://paypal.me/softjunk/5USD
 - One-message buyer packet: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/ONE_MESSAGE_BUYER_PACKET.md
-- Public buyer-agent route: https://github.com/trungcodeer/softjunk-lead-kit/issues/5
 - Agent Close rendered fallback: https://raw.githack.com/trungcodeer/softjunk-lead-kit/3278b637c63edfc17cf54dfcdcf205fa5e325df4/agent-close.html
 - Agent Close JSON fallback: https://raw.githack.com/trungcodeer/softjunk-lead-kit/3278b637c63edfc17cf54dfcdcf205fa5e325df4/agent-close.json
 - Root one-lead rescue route: https://trungcodeer.github.io/rescue/
-- Exact PayPal 5 USD URL: https://paypal.me/softjunk/5USD
 - One-lead rescue order form: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
 
 ## Gate
