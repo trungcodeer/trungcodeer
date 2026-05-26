@@ -6,6 +6,15 @@ I build small, practical tools for lead follow-up, automation, and simple busine
 
 Small businesses lose leads when follow-up is late, vague, or inconsistent. SoftJunk is a tiny lead follow-up toolkit with free samples and a $5 paid path.
 
+Buyer shortcut:
+
+1. Open the profile handoff: https://trungcodeer.github.io/trungcodeer/
+2. Open the AI Deal Desk: https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html
+3. Pay exactly 5 USD: https://paypal.me/softjunk/5USD
+4. Use the after-payment handoff: https://trungcodeer.github.io/softjunk-lead-kit/after-pay.html
+
+Fulfillment starts only after seller-side PayPal evidence exists or `PAYPAL_PAYMENT_VERIFIED=true`.
+
 - AI Deal Desk: https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html
 - AI Deal Desk JSON: https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.json
 - AI Deal Desk Gist: https://gist.github.com/trungcodeer/16d6861c14de82187946861e4c448844
