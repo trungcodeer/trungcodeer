@@ -1,5 +1,8 @@
 # TrungCodeer
 
+[![Pay $5 on PayPal](https://img.shields.io/badge/PayPal-Pay%20%245-0070ba?logo=paypal)](https://paypal.me/softjunk/5USD)
+[![GitHub Sponsor route](https://img.shields.io/badge/GitHub-Sponsor%20route-24292f?logo=github)](https://github.com/trungcodeer/softjunk-lead-kit/blob/main/SPONSOR_BUTTON_BUY.md)
+
 I build small, practical tools for lead follow-up, automation, and simple business workflows.
 
 ## SoftJunk Lead Kit
