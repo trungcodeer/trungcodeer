@@ -8,14 +8,20 @@ Small businesses lose leads when follow-up is late, vague, or inconsistent. Soft
 
 Buyer shortcut:
 
-1. For one stalled lead, open the root rescue route: https://trungcodeer.github.io/rescue/
-2. Open the profile handoff if more context is needed: https://trungcodeer.github.io/trungcodeer/
-3. Open the AI Deal Desk: https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html
-4. Pay exactly 5 USD: https://paypal.me/softjunk/5USD
-5. Use the after-payment handoff: https://trungcodeer.github.io/softjunk-lead-kit/after-pay.html
+1. Open the one-message buyer packet: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/ONE_MESSAGE_BUYER_PACKET.md
+2. Open the public buyer-agent route: https://github.com/trungcodeer/softjunk-lead-kit/issues/5
+3. If GitHub Pages is unavailable, open the Agent Close fallback: https://raw.githack.com/trungcodeer/softjunk-lead-kit/3278b637c63edfc17cf54dfcdcf205fa5e325df4/agent-close.html
+4. For one stalled lead, open the root rescue route: https://trungcodeer.github.io/rescue/
+5. Pay exactly 5 USD after the note is ready: https://paypal.me/softjunk/5USD
+6. Submit non-sensitive order details after payment: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
 
 Fulfillment starts only after seller-side PayPal evidence exists or `PAYPAL_PAYMENT_VERIFIED=true`.
 
+- One-message buyer packet: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/ONE_MESSAGE_BUYER_PACKET.md
+- One-message buyer packet Gist: https://gist.github.com/trungcodeer/1feb4ad4287e64c1e88d7f6c53f66c0d
+- Public buyer-agent route: https://github.com/trungcodeer/softjunk-lead-kit/issues/5
+- Agent Close rendered fallback: https://raw.githack.com/trungcodeer/softjunk-lead-kit/3278b637c63edfc17cf54dfcdcf205fa5e325df4/agent-close.html
+- Agent Close JSON fallback: https://raw.githack.com/trungcodeer/softjunk-lead-kit/3278b637c63edfc17cf54dfcdcf205fa5e325df4/agent-close.json
 - AI Deal Desk: https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html
 - AI Deal Desk JSON: https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.json
 - AI Deal Desk Gist: https://gist.github.com/trungcodeer/16d6861c14de82187946861e4c448844
