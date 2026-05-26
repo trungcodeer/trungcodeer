@@ -8,16 +8,20 @@ Small businesses lose leads when follow-up is late, vague, or inconsistent. Soft
 
 Buyer shortcut:
 
-1. Open the profile handoff: https://trungcodeer.github.io/trungcodeer/
-2. Open the AI Deal Desk: https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html
-3. Pay exactly 5 USD: https://paypal.me/softjunk/5USD
-4. Use the after-payment handoff: https://trungcodeer.github.io/softjunk-lead-kit/after-pay.html
+1. For one stalled lead, open the root rescue route: https://trungcodeer.github.io/rescue/
+2. Open the profile handoff if more context is needed: https://trungcodeer.github.io/trungcodeer/
+3. Open the AI Deal Desk: https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html
+4. Pay exactly 5 USD: https://paypal.me/softjunk/5USD
+5. Use the after-payment handoff: https://trungcodeer.github.io/softjunk-lead-kit/after-pay.html
 
 Fulfillment starts only after seller-side PayPal evidence exists or `PAYPAL_PAYMENT_VERIFIED=true`.
 
 - AI Deal Desk: https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html
 - AI Deal Desk JSON: https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.json
 - AI Deal Desk Gist: https://gist.github.com/trungcodeer/16d6861c14de82187946861e4c448844
+- Root one-lead rescue: https://trungcodeer.github.io/rescue/
+- Root one-lead rescue JSON: https://trungcodeer.github.io/rescue.json
+- Root one-lead rescue text: https://trungcodeer.github.io/rescue.txt
 - Agent Commerce Capsule: https://trungcodeer.github.io/softjunk-lead-kit/agent-commerce.html
 - Agent Commerce JSON: https://trungcodeer.github.io/softjunk-lead-kit/agent-commerce.json
 - Fix one quiet lead: https://trungcodeer.github.io/softjunk-lead-kit/fix-one-quiet-lead.html

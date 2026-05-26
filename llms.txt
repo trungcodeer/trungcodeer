@@ -5,6 +5,15 @@ SoftJunk sells a $5 lead follow-up kit and a $5 custom 7-day lead follow-up sequ
 Primary AI Deal Desk:
 https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.html
 
+Root one-lead rescue route:
+https://trungcodeer.github.io/rescue/
+
+Root one-lead rescue JSON:
+https://trungcodeer.github.io/rescue.json
+
+Root one-lead rescue text:
+https://trungcodeer.github.io/rescue.txt
+
 AI Deal Desk JSON:
 https://trungcodeer.github.io/softjunk-lead-kit/ai-deal-desk.json
 
@@ -99,7 +108,7 @@ Payment:
 https://paypal.me/softjunk/5USD
 
 Preferred handoff:
-When non-sensitive lead context exists, open the AI Deal Desk first. It generates a buyer decision, PayPal note, custom preview route, shareable order link, and the exact 5 USD PayPal route.
+When the buyer has one stalled lead, open the root rescue route first. When broader non-sensitive lead context exists, open the AI Deal Desk. It generates a buyer decision, PayPal note, custom preview route, shareable order link, and the exact 5 USD PayPal route.
 
 For the digital kit, use PayPal note `Lead Follow-Up Kit`. For a custom sequence, open the AI Deal Desk or shareable order link and copy the generated PayPal note before paying.
 
