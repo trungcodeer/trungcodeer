@@ -1,6 +1,19 @@
 # TrungCodeer
 
-## Send one qualified buyer to the  route
+## One-buyer $5 share action
+
+Use this route only for one known, relevant buyer who already has one quiet lead and one recovered conversation is worth more than 5 USD. Do not use it for scraped lists, cold spam, or private customer data.
+
+1. Open the one-buyer share action: https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.html
+2. Machine-readable share action: https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.json
+3. Text share action: https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.txt
+4. Copy the Send-5 buyer handoff: https://trungcodeer.github.io/send-5/
+5. Machine-readable handoff: https://trungcodeer.github.io/send-5.json
+6. Pay exactly 5 USD on PayPal: https://paypal.me/softjunk/5USD
+7. Submit non-sensitive order details after payment: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
+8. Do not claim paid, started, delivered, complete, or stop unless seller-side PayPal evidence exists or PAYPAL_PAYMENT_VERIFIED=true.
+
+## Send one qualified buyer to the $5 route
 
 Use this copy-ready buyer handoff only when the buyer already has one quiet lead and one recovered conversation is worth more than 5 USD:
 
@@ -9,6 +22,7 @@ Use this copy-ready buyer handoff only when the buyer already has one quiet lead
 3. Pay exactly 5 USD on PayPal: https://paypal.me/softjunk/5USD
 4. Submit non-sensitive order details after payment: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
 5. Do not claim paid, started, delivered, complete, or stop unless seller-side PayPal evidence exists or PAYPAL_PAYMENT_VERIFIED=true.
+
 ## Pay 5 USD: one rewrite included
 
 Current SoftJunk buyer route:
@@ -23,7 +37,7 @@ Privacy rule: use placeholders only. Do not post customer names, phone numbers, 
 [![Pay $5 on PayPal](https://img.shields.io/badge/PayPal-Pay%20%245-0070ba?logo=paypal)](https://paypal.me/softjunk/5USD)
 [![GitHub Sponsor route](https://img.shields.io/badge/GitHub-Sponsor%20route-24292f?logo=github)](https://github.com/trungcodeer/softjunk-lead-kit/blob/main/SPONSOR_BUTTON_BUY.md)
 
-## Current  Buyer Route
+## Current $5 Buyer Route
 
 For one unanswered roofing estimate, send this one-read buyer packet first:
 https://trungcodeer.github.io/softjunk-lead-kit/roofing-buyer-send.html
@@ -44,16 +58,17 @@ Small businesses lose leads when follow-up is late, vague, or inconsistent. Soft
 
 Buyer shortcut:
 
-1. Open the GitHub-native Buy Now packet: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/BUY_NOW.md
-2. If an AI/coding agent is routing the buyer, open: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/AGENTS.md
-3. If machine-readable agent checkout data is needed, open: https://raw.githubusercontent.com/trungcodeer/softjunk-lead-kit/main/agents-checkout.json
-4. Use the GitHub Sponsor button buy route: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/SPONSOR_BUTTON_BUY.md
-5. If machine-readable buy-now data is needed, open: https://raw.githubusercontent.com/trungcodeer/softjunk-lead-kit/main/buy-now.json
-6. Open the pinned human checkout board: https://github.com/trungcodeer/softjunk-lead-kit/issues/1
-7. Open the pinned buyer-agent route: https://github.com/trungcodeer/softjunk-lead-kit/issues/5
-8. Pay exactly 5 USD: https://paypal.me/softjunk/5USD
-9. Submit non-sensitive order details after payment: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
-10. Optional Pages route: https://trungcodeer.github.io/rescue/
+1. Use the one-buyer share action for one known relevant buyer: https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.html
+2. Open the GitHub-native Buy Now packet: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/BUY_NOW.md
+3. If an AI/coding agent is routing the buyer, open: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/AGENTS.md
+4. If machine-readable agent checkout data is needed, open: https://raw.githubusercontent.com/trungcodeer/softjunk-lead-kit/main/agents-checkout.json
+5. Use the GitHub Sponsor button buy route: https://github.com/trungcodeer/softjunk-lead-kit/blob/main/SPONSOR_BUTTON_BUY.md
+6. If machine-readable buy-now data is needed, open: https://raw.githubusercontent.com/trungcodeer/softjunk-lead-kit/main/buy-now.json
+7. Open the pinned human checkout board: https://github.com/trungcodeer/softjunk-lead-kit/issues/1
+8. Open the pinned buyer-agent route: https://github.com/trungcodeer/softjunk-lead-kit/issues/5
+9. Pay exactly 5 USD: https://paypal.me/softjunk/5USD
+10. Submit non-sensitive order details after payment: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
+11. Optional Pages route: https://trungcodeer.github.io/rescue/
 
 Fulfillment starts only after seller-side PayPal evidence exists or `PAYPAL_PAYMENT_VERIFIED=true`.
 
@@ -81,6 +96,9 @@ Fulfillment starts only after seller-side PayPal evidence exists or `PAYPAL_PAYM
 - Agent Commerce Capsule: https://trungcodeer.github.io/softjunk-lead-kit/agent-commerce.html
 - Agent Commerce JSON: https://trungcodeer.github.io/softjunk-lead-kit/agent-commerce.json
 - Fix one quiet lead: https://trungcodeer.github.io/softjunk-lead-kit/fix-one-quiet-lead.html
+- One-buyer share action: https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.html
+- One-buyer share JSON: https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.json
+- One-buyer share text: https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.txt
 - Lead follow-up rewriter: https://trungcodeer.github.io/softjunk-lead-kit/lead-follow-up-rewriter.html
 - Lead follow-up answers: https://trungcodeer.github.io/softjunk-lead-kit/lead-follow-up-answers.html
 - Root buyer hub: https://trungcodeer.github.io/
