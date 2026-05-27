@@ -20,6 +20,9 @@ npm exec --yes --package https://github.com/trungcodeer/softjunk-lead-kit/releas
 Verified release:
 https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.119
 
+Release tarball SHA-256:
+c9ca809f1d13c2b06c3531bbf1850c56cba263fb8940c7ea73b8cfdfa5494d9d
+
 Profile OpenAPI route:
 https://trungcodeer.github.io/trungcodeer/.well-known/openapi.yaml
 
