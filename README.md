@@ -1,5 +1,16 @@
 # TrungCodeer
 
+## Pay 5 USD: one rewrite included
+
+Current SoftJunk buyer route:
+
+1. Open the buyer-agent BuyAction manifest: https://trungcodeer.github.io/paypal-buy-action.json
+2. Pay exactly 5 USD on PayPal: https://paypal.me/softjunk/5USD
+3. After seller-side verification, a custom sequence includes one rewrite if the first draft is not usable and the buyer supplies non-sensitive business context.
+4. Fulfillment starts only after seller-side PayPal evidence exists or `PAYPAL_PAYMENT_VERIFIED=true`.
+
+Privacy rule: use placeholders only. Do not post customer names, phone numbers, emails, addresses, claim numbers, invoice IDs, transaction IDs, or PayPal details.
+
 [![Pay $5 on PayPal](https://img.shields.io/badge/PayPal-Pay%20%245-0070ba?logo=paypal)](https://paypal.me/softjunk/5USD)
 [![GitHub Sponsor route](https://img.shields.io/badge/GitHub-Sponsor%20route-24292f?logo=github)](https://github.com/trungcodeer/softjunk-lead-kit/blob/main/SPONSOR_BUTTON_BUY.md)
 
