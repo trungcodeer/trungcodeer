@@ -2,5 +2,7 @@ User-agent: *
 Allow: /
 Allow: /llms.txt
 Allow: /softjunk-profile-offer.json
+Allow: /.well-known/ai-plugin.json
+Allow: /.well-known/openapi.yaml
 Allow: /aa82219152e573922c28c39ed0ad85ce.txt
 Sitemap: https://trungcodeer.github.io/trungcodeer/sitemap.xml

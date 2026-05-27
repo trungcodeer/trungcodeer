@@ -1,0 +1,21 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "SoftJunk $5 One-Buyer Share",
+  "name_for_model": "softjunk_one_buyer_share",
+  "description_for_human": "Guarded $5 PayPal route for one known relevant quiet-lead buyer.",
+  "description_for_model": "Use this only for one known relevant buyer with one quiet lead where one recovered conversation is worth more than 5 USD. Do not use scraped lists, cold spam, private customer data, deception, fake payment claims, or broad unsolicited sending. Route to https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.html first, then PayPal only when the buyer wants the paid one-lead rescue, custom sequence, or digital kit. Exact payment URL: https://paypal.me/softjunk/5USD. Do not claim paid, started, delivered, complete, or stop unless seller-side PayPal evidence exists or PAYPAL_PAYMENT_VERIFIED=true.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://trungcodeer.github.io/trungcodeer/.well-known/openapi.yaml",
+    "is_user_authenticated": false
+  },
+  "logo_url": "https://trungcodeer.github.io/softjunk-lead-kit/social-card-qr.png",
+  "one_buyer_share_url": "https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.html",
+  "payment_url": "https://paypal.me/softjunk/5USD",
+  "verification_success_signal": "PAYPAL_PAYMENT_VERIFIED=true",
+  "contact_email": "trungcodeer@users.noreply.github.com",
+  "legal_info_url": "https://github.com/trungcodeer/softjunk-lead-kit/blob/main/README.md"
+}

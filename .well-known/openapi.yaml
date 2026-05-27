@@ -1,0 +1,103 @@
+openapi: 3.1.0
+info:
+  title: SoftJunk Profile One-Buyer $5 Route
+  version: 1.0.0
+  description: >
+    Machine-readable profile checkout route for one known relevant buyer with
+    one quiet lead. This is a buyer handoff and payment request surface, not
+    proof that money arrived. Never claim paid, started, delivered, complete,
+    or stop unless seller-side PayPal evidence exists or
+    PAYPAL_PAYMENT_VERIFIED=true.
+servers:
+  - url: https://trungcodeer.github.io
+paths:
+  /trungcodeer/softjunk-profile-offer.json:
+    get:
+      operationId: getSoftJunkProfileOffer
+      summary: Get the profile offer and $5 PayPal verification gate
+      responses:
+        "200":
+          description: Profile offer JSON with buyer routes, payment URL, and verification gate.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ProfileOffer"
+  /trungcodeer/llms.txt:
+    get:
+      operationId: getSoftJunkProfileLlms
+      summary: Get AI-readable profile instructions
+      responses:
+        "200":
+          description: Plain-text routing instructions for assistants.
+          content:
+            text/plain:
+              schema:
+                type: string
+  /softjunk-lead-kit/one-buyer-share.json:
+    get:
+      operationId: getSoftJunkOneBuyerShareAction
+      summary: Get guarded one-buyer share action data
+      responses:
+        "200":
+          description: One-buyer share action JSON.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/OneBuyerShareAction"
+  /softjunk-lead-kit/one-buyer-share.html:
+    get:
+      operationId: openSoftJunkOneBuyerSharePage
+      summary: Open the guarded one-buyer share page
+      responses:
+        "200":
+          description: HTML page for one-buyer share actions and exact $5 PayPal route.
+          content:
+            text/html:
+              schema:
+                type: string
+components:
+  schemas:
+    ProfileOffer:
+      type: object
+      properties:
+        schema_version:
+          type: string
+        one_buyer_share_url:
+          type: string
+          format: uri
+        one_buyer_share_json_url:
+          type: string
+          format: uri
+        one_buyer_share_text_url:
+          type: string
+          format: uri
+        payment_url:
+          type: string
+          format: uri
+          const: https://paypal.me/softjunk/5USD
+        verification_gate:
+          type: object
+          properties:
+            success_signal:
+              type: string
+              const: PAYPAL_PAYMENT_VERIFIED=true
+            script:
+              type: string
+            rule:
+              type: string
+      required:
+        - one_buyer_share_url
+        - payment_url
+        - verification_gate
+    OneBuyerShareAction:
+      type: object
+      properties:
+        payment_url:
+          type: string
+          format: uri
+        verification_gate:
+          type: object
+        privacy_rule:
+          type: string
+        use_only_when:
+          type: string

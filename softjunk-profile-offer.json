@@ -3,6 +3,8 @@
     "updated":  "2026-05-27",
     "profile_repo":  "https://github.com/trungcodeer/trungcodeer",
     "profile_pages_url":  "https://trungcodeer.github.io/trungcodeer/",
+    "profile_ai_plugin_url":  "https://trungcodeer.github.io/trungcodeer/.well-known/ai-plugin.json",
+    "profile_openapi_url":  "https://trungcodeer.github.io/trungcodeer/.well-known/openapi.yaml",
     "root_hub_url":  "https://trungcodeer.github.io/",
     "root_short_paypal_url":  "https://trungcodeer.github.io/paypal/",
     "root_short_pay_url":  "https://trungcodeer.github.io/pay/",

@@ -91,6 +91,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trungcodeer.github.io/trungcodeer/.well-known/ai-plugin.json</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trungcodeer.github.io/trungcodeer/.well-known/openapi.yaml</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trungcodeer.github.io/send-5/</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>

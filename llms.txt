@@ -11,6 +11,12 @@ https://trungcodeer.github.io/send-5.json
 Send-5 text:
 https://trungcodeer.github.io/send-5.txt
 
+Profile AI plugin manifest:
+https://trungcodeer.github.io/trungcodeer/.well-known/ai-plugin.json
+
+Profile OpenAPI route:
+https://trungcodeer.github.io/trungcodeer/.well-known/openapi.yaml
+
 One-buyer share action:
 https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.html
 
@@ -152,3 +158,6 @@ Use https://trungcodeer.github.io/send-5/ or https://trungcodeer.github.io/send-
 
 One-buyer share action:
 Use https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.html or https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.json when an AI assistant or VA needs one guarded action for exactly one known relevant buyer. Do not use scraped lists, cold spam, or private customer data. Pay exactly 5 USD at https://paypal.me/softjunk/5USD and do not claim payment unless PAYPAL_PAYMENT_VERIFIED=true.
+
+Profile OpenAPI action:
+Use https://trungcodeer.github.io/trungcodeer/.well-known/openapi.yaml when an agent needs a compact machine-readable contract for the profile offer, one-buyer share action, exact 5 USD PayPal route, privacy limits, and PAYPAL_PAYMENT_VERIFIED gate.

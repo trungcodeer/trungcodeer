@@ -7,11 +7,13 @@ Use this route only for one known, relevant buyer who already has one quiet lead
 1. Open the one-buyer share action: https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.html
 2. Machine-readable share action: https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.json
 3. Text share action: https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.txt
-4. Copy the Send-5 buyer handoff: https://trungcodeer.github.io/send-5/
-5. Machine-readable handoff: https://trungcodeer.github.io/send-5.json
-6. Pay exactly 5 USD on PayPal: https://paypal.me/softjunk/5USD
-7. Submit non-sensitive order details after payment: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
-8. Do not claim paid, started, delivered, complete, or stop unless seller-side PayPal evidence exists or PAYPAL_PAYMENT_VERIFIED=true.
+4. Profile AI plugin manifest: https://trungcodeer.github.io/trungcodeer/.well-known/ai-plugin.json
+5. Profile OpenAPI route: https://trungcodeer.github.io/trungcodeer/.well-known/openapi.yaml
+6. Copy the Send-5 buyer handoff: https://trungcodeer.github.io/send-5/
+7. Machine-readable handoff: https://trungcodeer.github.io/send-5.json
+8. Pay exactly 5 USD on PayPal: https://paypal.me/softjunk/5USD
+9. Submit non-sensitive order details after payment: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
+10. Do not claim paid, started, delivered, complete, or stop unless seller-side PayPal evidence exists or PAYPAL_PAYMENT_VERIFIED=true.
 
 ## Send one qualified buyer to the $5 route
 
@@ -122,6 +124,8 @@ Fulfillment starts only after seller-side PayPal evidence exists or `PAYPAL_PAYM
 - Profile microsite: https://trungcodeer.github.io/trungcodeer/
 - Profile offer JSON: https://trungcodeer.github.io/trungcodeer/softjunk-profile-offer.json
 - Profile llms.txt: https://trungcodeer.github.io/trungcodeer/llms.txt
+- Profile AI plugin manifest: https://trungcodeer.github.io/trungcodeer/.well-known/ai-plugin.json
+- Profile OpenAPI route: https://trungcodeer.github.io/trungcodeer/.well-known/openapi.yaml
 - Quiet lead public Gist: https://gist.github.com/trungcodeer/caeeb4b5aa7fc91a1b6f0e6d154f8a08
 - Fast checkout: https://trungcodeer.github.io/softjunk-lead-kit/checkout.html
 - Pay $5 on PayPal: https://paypal.me/softjunk/5USD

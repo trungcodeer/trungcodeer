@@ -8,15 +8,21 @@ Use this only when the buyer has one real quiet lead and one recovered reply, qu
 
 1. Open the product buyer-agent instructions:
    https://github.com/trungcodeer/softjunk-lead-kit/blob/main/AGENTS.md
-2. Open the machine-readable checkout JSON:
+2. Open the profile OpenAPI route when a machine-readable profile contract is needed:
+   https://trungcodeer.github.io/trungcodeer/.well-known/openapi.yaml
+3. Open the guarded one-buyer share action:
+   https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.html
+4. Open the one-buyer share JSON:
+   https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.json
+5. Open the machine-readable checkout JSON:
    https://raw.githubusercontent.com/trungcodeer/softjunk-lead-kit/main/agents-checkout.json
-3. Open the root one-lead rescue route if Pages is available:
+6. Open the root one-lead rescue route if Pages is available:
    https://trungcodeer.github.io/rescue/
-4. Copy the PayPal note:
+7. Copy the PayPal note:
    https://github.com/trungcodeer/softjunk-lead-kit/blob/main/PAYPAL_NOTE_FIRST.md
-5. Pay exactly 5 USD:
+8. Pay exactly 5 USD:
    https://paypal.me/softjunk/5USD
-6. After payment, submit non-sensitive order details if needed:
+9. After payment, submit non-sensitive order details if needed:
    https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
 
 ## Verification Gate
