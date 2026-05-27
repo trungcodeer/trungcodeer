@@ -1,5 +1,14 @@
 # TrungCodeer
 
+## Send one qualified buyer to the  route
+
+Use this copy-ready buyer handoff only when the buyer already has one quiet lead and one recovered conversation is worth more than 5 USD:
+
+1. Copy the Send-5 buyer handoff: https://trungcodeer.github.io/send-5/
+2. Machine-readable handoff: https://trungcodeer.github.io/send-5.json
+3. Pay exactly 5 USD on PayPal: https://paypal.me/softjunk/5USD
+4. Submit non-sensitive order details after payment: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
+5. Do not claim paid, started, delivered, complete, or stop unless seller-side PayPal evidence exists or PAYPAL_PAYMENT_VERIFIED=true.
 ## Pay 5 USD: one rewrite included
 
 Current SoftJunk buyer route:
