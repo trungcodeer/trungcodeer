@@ -12,10 +12,11 @@ npm exec --yes --package https://github.com/trungcodeer/softjunk-lead-kit/releas
 ```
 
 3. Verified npm-exec release: https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.119
-4. Use the buyer card if a human needs the shortest public route: https://trungcodeer.github.io/5/
-5. Use non-sensitive context only.
-6. Submit non-sensitive order details after payment: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
-7. Do not claim paid, started, delivered, complete, or stop unless seller-side PayPal evidence exists or `PAYPAL_PAYMENT_VERIFIED=true`.
+4. Release asset SHA-256: `c9ca809f1d13c2b06c3531bbf1850c56cba263fb8940c7ea73b8cfdfa5494d9d`
+5. Use the buyer card if a human needs the shortest public route: https://trungcodeer.github.io/5/
+6. Use non-sensitive context only.
+7. Submit non-sensitive order details after payment: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
+8. Do not claim paid, started, delivered, complete, or stop unless seller-side PayPal evidence exists or `PAYPAL_PAYMENT_VERIFIED=true`.
 
 ## One-buyer $5 share action
 
