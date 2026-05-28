@@ -1,4 +1,4 @@
-﻿{
+{
   "schema_version": "softjunk-profile-offer-v1",
   "updated": "2026-05-28",
   "profile_repo": "https://github.com/trungcodeer/trungcodeer",
@@ -65,7 +65,7 @@
   "offer": "SoftJunk Lead Follow-Up Kit and custom 7-day lead follow-up sequence",
   "price": "5.00",
   "currency": "USD",
-  "verified_release_url": "https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.161",
+  "verified_release_url": "https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.162",
   "release_tarball_url": "https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.151/softjunk-lead-kit-0.2.2.tgz",
   "release_tarball_sha256": "1bc8497b69211a11a28c4fb4cacb98fecb5911ac2b4ca20a30be7bf4456a986c",
   "run_from_release_tarball_pay_custom": "npm exec --yes --package https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.151/softjunk-lead-kit-0.2.2.tgz -- softjunk-lead-kit pay --mode custom --json",
@@ -103,7 +103,7 @@
     "expected_amount": "5.00",
     "currency": "USD",
     "payment_url": "https://paypal.me/softjunk/5USD",
-    "release_url": "https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.161",
+    "release_url": "https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.162",
     "release_tarball_url": "https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.151/softjunk-lead-kit-0.2.2.tgz",
     "release_tarball_sha256": "1bc8497b69211a11a28c4fb4cacb98fecb5911ac2b4ca20a30be7bf4456a986c",
     "success_signal": "PAYPAL_PAYMENT_VERIFIED=true",
