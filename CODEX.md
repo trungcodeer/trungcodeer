@@ -25,8 +25,8 @@ npm exec --yes --package github:trungcodeer/softjunk-lead-kit -- softjunk-lead-k
 ```
 
 - Release: https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.162
-- Release tarball: https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.151/softjunk-lead-kit-0.2.2.tgz
-- Release tarball SHA-256: `1bc8497b69211a11a28c4fb4cacb98fecb5911ac2b4ca20a30be7bf4456a986c`
+- Release tarball: https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.162/softjunk-lead-kit-0.2.2.tgz
+- Release tarball SHA-256: `https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.162/softjunk-lead-kit-0.2.2.tgz.sha256`
 - Payment URL: https://paypal.me/softjunk/5USD
 - Success signal: `PAYPAL_PAYMENT_VERIFIED=true`
 - Boundary: Do not claim paid, started, delivered, fulfilled, complete, received, or stop unless seller-side PayPal evidence exists, PayPal API verification succeeds, or trusted seller-side CSV proof verifies the 5 USD payment.
