@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Allow: /llms.txt
+Allow: /llms-full.txt
 Allow: /softjunk-profile-offer.json
 Allow: /.well-known/ai-plugin.json
 Allow: /.well-known/openapi.yaml

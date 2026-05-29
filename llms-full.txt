@@ -1,0 +1,37 @@
+# TrungCodeer Profile Offer LLM Full Context
+
+Purpose: route profile visitors, assistants, and buyer agents to the SoftJunk 5 USD lead follow-up checkout without private data or false payment claims.
+
+Current no-clone checkout command:
+```bash
+npm exec --yes --package https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.162/softjunk-lead-kit-0.2.2.tgz -- softjunk-lead-kit pay --mode custom --json
+```
+
+Expected command result:
+- amount: 5.00
+- currency: USD
+- payment_url: https://paypal.me/softjunk/5USD
+- success_signal: PAYPAL_PAYMENT_VERIFIED=true
+
+Best routes:
+- Profile microsite: https://trungcodeer.github.io/trungcodeer/
+- Profile offer JSON: https://trungcodeer.github.io/trungcodeer/softjunk-profile-offer.json
+- Send-5 handoff: https://trungcodeer.github.io/send-5/
+- Root rescue: https://trungcodeer.github.io/rescue/
+- One-buyer share: https://trungcodeer.github.io/softjunk-lead-kit/one-buyer-share.html
+- Product buyer index: https://trungcodeer.github.io/softjunk-lead-kit/buyer-index.json
+
+Integrity:
+- Release: https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.162
+- Target: b8c335e6cfac3045155497b41e5532e1dfefae10
+- Tarball: https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.162/softjunk-lead-kit-0.2.2.tgz
+- SHA-256 file: https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.162/softjunk-lead-kit-0.2.2.tgz.sha256
+
+Payment:
+- Exact amount: 5.00 USD
+- PayPal URL: https://paypal.me/softjunk/5USD
+- Completion gate: PAYPAL_PAYMENT_VERIFIED=true or seller-side PayPal evidence.
+
+Ethical routing rule:
+- Use this only for a real qualified buyer or buyer-agent request.
+- Do not use scraped lists, cold spam batches, private customer data, fake payment, fake fulfillment, or automated completion.
