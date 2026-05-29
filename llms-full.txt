@@ -4,7 +4,7 @@ Purpose: route profile visitors, assistants, and buyer agents to the SoftJunk 5 
 
 Current no-clone checkout command:
 ```bash
-npm exec --yes --package https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.162/softjunk-lead-kit-0.2.2.tgz -- softjunk-lead-kit pay --mode custom --json
+npm exec --yes --package https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.163/softjunk-lead-kit-0.2.2.tgz -- softjunk-lead-kit pay --mode custom --json
 ```
 
 Expected command result:
@@ -22,10 +22,10 @@ Best routes:
 - Product buyer index: https://trungcodeer.github.io/softjunk-lead-kit/buyer-index.json
 
 Integrity:
-- Release: https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.162
-- Target: b8c335e6cfac3045155497b41e5532e1dfefae10
-- Tarball: https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.162/softjunk-lead-kit-0.2.2.tgz
-- SHA-256 file: https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.162/softjunk-lead-kit-0.2.2.tgz.sha256
+- Release: https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.163
+- Target: 9d6b527b2d008e8414e80d01f46683db80115f59
+- Tarball: https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.163/softjunk-lead-kit-0.2.2.tgz
+- SHA-256 file: https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.163/softjunk-lead-kit-0.2.2.tgz.sha256
 
 Payment:
 - Exact amount: 5.00 USD

@@ -8,7 +8,7 @@ Fastest route for a real buyer:
 2. Run the current pinned release-tarball buyer-agent checkout command:
 
 ```bash
-npm exec --yes --package https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.162/softjunk-lead-kit-0.2.2.tgz -- softjunk-lead-kit pay --mode custom --json
+npm exec --yes --package https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.163/softjunk-lead-kit-0.2.2.tgz -- softjunk-lead-kit pay --mode custom --json
 ```
 
 3. GitHub package fallback: `npm exec --yes --package github:trungcodeer/softjunk-lead-kit -- softjunk-lead-kit pay --mode custom --json`.
@@ -19,8 +19,8 @@ npm exec --yes --package github:trungcodeer/softjunk-lead-kit -- softjunk-lead-k
 ```
 
 5. MCP-capable assistants can call `get_softjunk_agent_relay`.
-6. Current release: https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.162
-7. Current release target: `b8c335e6cfac3045155497b41e5532e1dfefae10`
+6. Current release: https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.163
+7. Current release target: `9d6b527b2d008e8414e80d01f46683db80115f59`
 8. Use the buyer card if a human needs the shortest public route: https://trungcodeer.github.io/5/
 9. Use non-sensitive context only.
 10. Submit non-sensitive order details after payment: https://github.com/trungcodeer/softjunk-lead-kit/issues/new?template=one-lead-rescue-order.yml
@@ -181,10 +181,10 @@ npm exec --yes --package github:trungcodeer/softjunk-lead-kit -- softjunk-lead-k
 
 - Agent relay command: `npm exec --yes --package github:trungcodeer/softjunk-lead-kit -- softjunk-lead-kit agent --json`
 - MCP relay tool: `get_softjunk_agent_relay`
-- Current release: https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.162
-- Current release target: `b8c335e6cfac3045155497b41e5532e1dfefae10`
-- Current release tarball command: `npm exec --yes --package https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.162/softjunk-lead-kit-0.2.2.tgz -- softjunk-lead-kit pay --mode custom --json`
-- Current release tarball SHA-256 file: https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.162/softjunk-lead-kit-0.2.2.tgz.sha256
+- Current release: https://github.com/trungcodeer/softjunk-lead-kit/releases/tag/v2.29.163
+- Current release target: `9d6b527b2d008e8414e80d01f46683db80115f59`
+- Current release tarball command: `npm exec --yes --package https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.163/softjunk-lead-kit-0.2.2.tgz -- softjunk-lead-kit pay --mode custom --json`
+- Current release tarball SHA-256 file: https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.163/softjunk-lead-kit-0.2.2.tgz.sha256
 - Stable fallback tarball: https://github.com/trungcodeer/softjunk-lead-kit/releases/download/v2.29.151/softjunk-lead-kit-0.2.2.tgz
 - Stable fallback SHA-256: `1bc8497b69211a11a28c4fb4cacb98fecb5911ac2b4ca20a30be7bf4456a986c`
 - Payment URL: https://paypal.me/softjunk/5USD
